@@ -1,4 +1,4 @@
-# RAOFEP
+# Robot Automated Outlook Folder Export Process (RAOFEP)
 # Inspiration
 Frankly, the team had not heard about UIPath before attending this hackathon. However, later during the hackathon, we attended the UIPath workshop, and we were instantly intrigued by the wonders that the software could produce. A team member who currently holds an IT job that requires the tedious process of exporting a substantial number of .PST files introduced the idea of automating this operation. We were inspired to materialize this idea into reality.
 
